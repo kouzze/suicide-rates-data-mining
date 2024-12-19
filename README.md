@@ -8,11 +8,6 @@ Este estudio analiza la relación entre tasas de suicidio y diversos indicadores
 2. Identificar posibles relaciones entre factores económicos y tasas de suicidio.
 3. Aplicar PCA y Análisis Factorial para reducir la dimensionalidad y encontrar patrones subyacentes.
 
-## Integrantes del Proyecto
-- **Javier Bravo**  
-- **Robert Reyes**  
-- **Nicolás Jara**
-
 ## Contenido del Análisis
 
 ### 1. Visualizaciones
